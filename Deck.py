@@ -21,3 +21,4 @@ random.shuffle(deck)
 #now let's see the cards!
 for m in range(52):
     print(deck[m])
+    print("completed")
